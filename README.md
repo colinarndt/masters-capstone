@@ -1,4 +1,4 @@
-# Capstone Appied Research Paper
+# Applied Research Capstone
 
 Open-Source Edge LLMs for Forecasting Stock Returns via News Headline Sentiment Analysis
 
